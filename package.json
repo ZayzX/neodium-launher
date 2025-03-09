@@ -1,11 +1,11 @@
 {
-    "name": "neodium-Launcher",
-    "preductname": "Neodium Launcher",
+    "name": "dragon-Launcher",
+    "preductname": "Dragon Launcher",
     "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
-        "name": "Neodium, luuxis Inc.",
+        "name": "Dragon Studio, luuxis Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://cdn.discordapp.com/attachments/1344811868585328750/1345818544092483755/logo.png?ex=67c5eeb1&is=67c49d31&hm=cda340b23fdeebffdd95e717e7b07444ad9466f7d1e6606805100ee20689063d&"
+        "icon": "node build.js --icon=https://cdn.discordapp.com/attachments/1344811868585328750/1347671628762448013/file-UpdQWtAsV8q89AmZSEF15W.webp?ex=67cea6c2&is=67cd5542&hm=b7a3587fe5b252ced71498074e4a5de4278311ec888da7b6d97dab64c37ea273&"
     },
     "license": "CCANC",
     "nodemonConfig": {
